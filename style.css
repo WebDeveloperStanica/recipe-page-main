@@ -5,6 +5,7 @@
 }
 
 body {
+<<<<<<< HEAD
     background-color: hsl(30, 18%, 87%);
     /* width: 1440px; */
 }
@@ -110,4 +111,18 @@ p, li {
 
 .bar {
  border: 2px solid hsl(30, 18%, 87%);
+=======
+    background-color: antiquewhite;
+}
+
+.container {
+    width: 420px;
+    margin: 200px auto;
+    background-color: white;
+    padding: 20px;
+}
+
+img {
+    width: 400px;
+>>>>>>> 3eb5700ecd2d34106c8bed5e370b8f9101588b04
 }
