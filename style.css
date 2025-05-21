@@ -144,7 +144,7 @@ p, li {
     border: 1px solid hsl(30, 18%, 87%);
 }
 
-@media (max-width: 680px) {
+@media (max-width: 480px) {
     
     .container {
     background-color: rgb(255, 255, 255);
@@ -152,19 +152,20 @@ p, li {
     margin: 10px auto;
     padding: 0px;
     border-radius: 0;
-    
 }
 
 header h1, header p {
     padding: 0px 14px 0px 14px;
+    background-color: red;
 }
 
  header img {
     width: 100%;
     border-radius: 0;
-    
 }
+
 h2 {
     padding-left: 14px;
 }
+
 }
